@@ -12,7 +12,7 @@ In this Project Analysis of three different signals with various signal processi
 ##Results
 
 <img align="center" src="Assets/dam_freq.png" width="550">
-<img align="center" src="Assets/damage frequency.png" width="650">
+<img align="center" src="Assets/damage frequency.png" width="750">
 
 ## Repository content
 
